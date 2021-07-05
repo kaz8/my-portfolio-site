@@ -18,7 +18,7 @@
           </p>
         </div>
         <div class="works-link">
-          <a href="http://webcreatorbox.com/about">Guthub</a>
+          <a href="https://github.com/kaz8/my-portfolio-site/tree/master">Guthub</a>
         </div>
       </div>
 
