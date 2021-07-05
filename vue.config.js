@@ -4,8 +4,12 @@ module.exports = {
   ],
   pages: {
     index: {
-      entry: 'src/main.js', // 必須パラメータ
+      entry: 'src/main.js', 
       title: "kaz's portfolio",
     }
+  },
+  pwa: {
+    icon: false
   }
+
 }
