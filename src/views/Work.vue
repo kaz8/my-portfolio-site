@@ -14,7 +14,7 @@
           <h1 class="works-title">ポートフォリオサイト</h1>
           <p class="works-text">
             現在閲覧しているサイトです。vue.jsを使用して作成しています。
-            学習したことをアウトプットするサイトとして運用をしていく予定です。
+            学習内容をアウトプットするサイトとして運用をしていく予定です。
           </p>
         </div>
         <div class="works-link">
@@ -78,6 +78,7 @@ body {
   height: auto;
 }
 .works-content {
+  
   padding: 20px;
 }
 .works-title {
