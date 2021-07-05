@@ -9,7 +9,9 @@ module.exports = {
     }
   },
   pwa: {
-    icon: false
+    iconPath:{
+      favicon32:'public/favicon.ico'
+    }
   }
 
 }
